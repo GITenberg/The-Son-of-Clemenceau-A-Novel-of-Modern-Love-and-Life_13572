@@ -1,0 +1,30 @@
+_repo: The-Son-of-Clemenceau-A-Novel-of-Modern-Love-and-Life_13572
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas fils, Alexandre
+    - Dumas, A. (Alexandre)
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '672'
+    url: http://www.gutenberg.org/2009/agents/672
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
+description: '"A Sequel to The Clemenceau Case by Alexander Dumas (fils)"'
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: The Son of Clemenceau, A Novel of Modern Love and Life
+url: http://www.gutenberg.org/ebooks/13572
